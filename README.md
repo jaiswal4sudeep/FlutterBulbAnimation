@@ -1,4 +1,4 @@
-# bulbanimation
+# Bulb Animation - Flutter UI Challenge
 
 A new Flutter project.
 
